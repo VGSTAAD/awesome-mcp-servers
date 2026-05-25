@@ -335,6 +335,9 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ## 💹 <a name="finance"></a>Finance
 
+**[Vongstaad MCP](https://github.com/VGSTAAD/vongstaad-mcp)** - Quant signal infrastructure for AI agents. x402 pay-per-call on Base. No subscription.
+
+
 > Financial data and cryptocurrency information services.
 
 - <img src="https://docs.octagonagents.com/logo.svg" alt="Octagon Logo" height="14"/> [Octagon](https://github.com/OctagonAI/octagon-mcp-server)<sup><sup>⭐</sup></sup> - Deliver real-time market intelligence with extensive private and public market data.
